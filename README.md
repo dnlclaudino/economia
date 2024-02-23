@@ -19,19 +19,23 @@
  
 | # | Tipo Fonte | Nome da Fonte | Progresso | Data | Versão | Links | Anotações |
 |:---:|:---:|:---|:---:|:---:|:---:|:---|:---|
-| 1 | Livro |**NOME-DO-AUTOR**<br>[Livro - Nome-do-Livro]() | 0% | Junho/2023 | v0.0.1 | 1. [Link para o livro](https://1drv.ms/b/s!Au-CrfNP6c0bhq4G_VyZeSBwS02bzg?e=VVkWoA) | - |
+| 1 | Livro |**MARCO ANTÔNIO SANDOVAL VASCONCELOS<br>MANUAL ENRIQUEZ GARCIA**<br>[FUNDAMENTOS DE ECONOMIA](./livro-VASCONCELOS-GARCIA-2012-fundamentos-de-economia/README.md) | 0% | Junho/2023 | v0.0.1 | 1. [Link para o livro](https://1drv.ms/b/s!Au-CrfNP6c0bhq4G_VyZeSBwS02bzg?e=VVkWoA) | - |
 
 LIVRO - FUNDAMENTOS DE ECONOMIA - MARCOS ANTONIO S VASCONCELOS E MANUAL E GARCIA
 
-## Competências Relacionadas com Este Repositório
+## Competências Relacionadas com este Repositório
 
 ### O que é uma Competência?
 
-É o conjunto  de  (C) **conhecimentos**, (H) ** habilidades**  e (A) **atitudes**  necessárias  ao  desempenho das funções dos servidores, visando ao alcance dos objetivos da instituição. (BRASIL, 2006)[^BRASIL-2006]
+É o conjunto  de  (C) **conhecimentos**, (H) **habilidades**  e (A) **atitudes**  necessárias  ao  desempenho das funções dos servidores, visando ao alcance dos objetivos da instituição. (BRASIL, 2006)[^BRASIL-2006]
 
 #### Tipologias de Competências
 
-<img src="https://github.com/dnlclaudino/imagens/figuras-logos/figura-GESTAO-DE-COMPETENCIAS-tipologia-de-competencias-BRANDAO-2012.png" width="300" height="300">
+<p align="center">
+
+<img align="center" src="https://github.com/dnlclaudino/imagens/blob/master/figuras-e-logos/figura-GESTAO-DE-COMPETENCIAS-tipologia-de-competencias-BRANDAO-2012.png?raw=true" width="300" height="300">
+
+</p>
 
 #### O que representa Competência?
 
@@ -69,7 +73,7 @@ LIVRO - FUNDAMENTOS DE ECONOMIA - MARCOS ANTONIO S VASCONCELOS E MANUAL E GARCIA
         - Técnicas (CPT-T-);
         - Gerenciais (CPT-G-); e/ou
         - Individuais (CPT-I-)
-  - **Desenvolveram efetivamente**:
+  - Foram **desenvolvidas efetivamente**:
     - As competências organizacionais, acadêmicas, técnicas, gerenciais e/ou individuais relacionadas na seção abaixo:
 
 ### Competência | Categoria (organizacionais, acadêmicas, técnicas, gerenciais e/ou individuais) | Descrição breve da competência
