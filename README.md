@@ -2,7 +2,7 @@
   <tr>
     <td align="center" valign="top">
       <a href="https://github.com/dnlclaudino/gestao-do-conhecimento#readme">
-        <img src="https://github.com/dnlclaudino/imagens/blob/master/icones/casa3.png?raw=true" heigh="60" width="60"><br>Início da <br>Gestão do <br>Conhecimento
+        <img src="https://github.com/dnlclaudino/imagens/blob/master/icones/icone-casa3.png?raw=true" heigh="60" width="60"><br>Início da <br>Gestão do <br>Conhecimento
       </a>
     </td>
     <td align="center" valign="top">
@@ -11,30 +11,66 @@
       </a>
     </td>
   </tr>
-</table><br><br><br><br><br>
+</table><br><br><br><br><br><br><br>
 
-# NOME-DO-REPOSITORIO
+# Repositório para Gestão do Conhecimento em Economia
 
-Repositório para Gestão do Conhecimento de NOME-DO-REPOSITORIO.
-
-## Fontes
+## Fontes de Conhecimento
  
 | # | Tipo Fonte | Nome da Fonte | Progresso | Data | Versão | Links | Anotações |
 |:---:|:---:|:---|:---:|:---:|:---:|:---|:---|
-| 1 | Livro da Disciplina |**NOME-DO-AUTOR**<br>[Livro - Nome-do-Livro]() | 0% | Junho/2023 | v0.0.1 | 1. [Link para o livro]() | - |
-| 2 | Livro da Disciplina |**NOME-DO-AUTOR**<br>[Livro - Nome-do-Livro]() | 0% | Junho/2023 | v0.0.1 | 1. [Link para o livro]() | - |
-| 3 | Livro da Disciplina |**NOME-DO-AUTOR**<br>[Livro - Nome-do-Livro]() | 0% | Junho/2023 | v0.0.1 | 1. [Link para o livro]() | - |
+| 1 | Livro |**NOME-DO-AUTOR**<br>[Livro - Nome-do-Livro]() | 0% | Junho/2023 | v0.0.1 | 1. [Link para o livro](https://1drv.ms/b/s!Au-CrfNP6c0bhq4G_VyZeSBwS02bzg?e=VVkWoA) | - |
+
+LIVRO - FUNDAMENTOS DE ECONOMIA - MARCOS ANTONIO S VASCONCELOS E MANUAL E GARCIA
 
 ## Competências Relacionadas com Este Repositório
 
--  O estudo de todas as fontes desse repositório:
-  - Poderão possibilitar o desenvolvimento de competências:
-    - Organizacionais (CPT-O-);
-    - Acadêmicas (CPT-A-);
-    - Técnicas (CPT-T-);
-    - Gerenciais (CPT-G-); e/ou
-    - Individuais (CPT-I-)
-  - Desenvolveram efetivamente as seguintes competências organizacionais, acadêmicas, técnicas, gerenciais e/ou individuais:
+### O que é uma Competência?
+
+É o conjunto  de  (C) **conhecimentos**, (H) ** habilidades**  e (A) **atitudes**  necessárias  ao  desempenho das funções dos servidores, visando ao alcance dos objetivos da instituição. (BRASIL, 2006)[^BRASIL-2006]
+
+#### Tipologias de Competências
+
+<img src="https://github.com/dnlclaudino/imagens/figuras-logos/figura-GESTAO-DE-COMPETENCIAS-tipologia-de-competencias-BRANDAO-2012.png" width="300" height="300">
+
+#### O que representa Competência?
+
+**Comportamentos** que podem ser **observados objetivamente** no contexto pessoal e de trabalho.
+
+#### O que expressa competência?
+
+**Capacidades desejadas** do servidor para realização de suas atividades no contexto da equipe e da organização.
+
+#### O que indica Competência?
+
+**O que** o órgão, área ou setor **espera do profissional** <u>para atingir</u> seus **objetivos** e **metas**. Essa definição <u>pode ser extendida</u> de forma a representar **o que a própria pessoa espera de si mesma** e que a habilitam para atingir seus objetivos e metas.
+
+#### Qual a importância da minha gestão de competências ?
+
+- Capacidade de **agregar valor** a **minha atuação profissional** de forma a:
+  - Passar a ser mais reconhecido;
+  - Tornar o trabalho mais amigável;
+  - Contribuir para que minhas tarefas possam ser executadas de forma menos estressante;
+  - Se capaz de desenvolver outras pessoas com mais efetividade;
+- **Focar nos resultados**: Como toda a competência gera um resultado, o meu modelo de gestão de competências pode ser acompanhado pelas consequências que meu desempenho gera na organização;
+- **Estímulo** para tornar-me **responsável pelo meu desenvolvimento**:
+  - De acordo com a metodologia a ser seguida na gestão de minhas competências, as ações de capacitação serão construídas de acordo com as necessidades identificadas após a **fase de identificação de lacunas (gaps)**, permitindo tornar-me responsável pelao processo de desenvolvimento de minhas competências. 
+- **Contrubuição para elaboração** de **modelos  formais e informais  de  capacitação  e  desenvolvimento  de  baixo custo** (treinamento no trabalho, pesquisas, tutorias etc.)
+  - O desenvolvimento de minhas competências pode ser feito de diferentes formas;
+  - Contribuir para desenvolver pessoas no meu ambiente de trabalho;
+    - Observar um colega de trabalho explicando e realizando determinada tarefa é muitas vezes mais eficaz para o desenvolvimento de uma competência do que ações formalizadas (e mais caras) de capacitação;
+
+### Como este repositório contribui para minhas competências ?
+- O estudo de todas as fontes desse repositório:
+  - **Poderão possibilitar**:
+      - O desenvolvimento de competências:
+        - Organizacionais (CPT-O-);
+        - Acadêmicas (CPT-A-);
+        - Técnicas (CPT-T-);
+        - Gerenciais (CPT-G-); e/ou
+        - Individuais (CPT-I-)
+  - **Desenvolveram efetivamente**:
+    - As competências organizacionais, acadêmicas, técnicas, gerenciais e/ou individuais relacionadas na seção abaixo:
 
 ### Competência | Categoria (organizacionais, acadêmicas, técnicas, gerenciais e/ou individuais) | Descrição breve da competência
 

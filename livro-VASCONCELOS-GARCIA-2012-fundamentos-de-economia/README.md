@@ -2,12 +2,12 @@
   <tr>
     <td align="center" valign="top">
       <a href="https://github.com/dnlclaudino/gestao-do-conhecimento#readme">
-        <img src="https://github.com/dnlclaudino/imagens/blob/master/icones/casa3.png?raw=true" heigh="60" width="60"><br>Início da <br>Gestão do <br>Conhecimento
+        <img src="https://github.com/dnlclaudino/imagens/blob/master/icones/icone-casa3.png?raw=true" heigh="60" width="60"><br>Início da <br>Gestão do <br>Conhecimento
       </a>
     </td>
     <td align="center" valign="top">
       <a href="../README.md">
-        <img src="https://github.com/dnlclaudino/imagens/blob/master/icones/casa2.png?raw=true" heigh="60" width="60"><br>Início deste <br>Repositório
+        <img src="https://github.com/dnlclaudino/imagens/blob/master/icones/icone-casa2.png?raw=true" heigh="60" width="60"><br>Início deste <br>Repositório
       </a>
     </td>
     <td align="center" valign="top">
@@ -18,11 +18,11 @@
   </tr>
 </table><br><br><br><br><br>
 
-# Livro - Título-do-livro
+# Livro: Introdução à Economia
 
 ## Como referenciar esta obra ?
 
-(...)
+VASCONCELOS, Marcos Antônio S.;GARCIA, Manuel E. **Introdução à Economia**. São Paulo : Saraiva, 2012.
 
 ## Como referenciar este material ?
 
