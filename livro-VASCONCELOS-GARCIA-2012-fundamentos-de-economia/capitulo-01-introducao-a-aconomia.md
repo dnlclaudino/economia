@@ -43,11 +43,14 @@
     - [1.4.1 Custo de oportunidade](#141-custo-de-oportunidade)
     - [1.4.2 Deslocamentos da curva de possibilidades de produção](#142-deslocamentos-da-curva-de-possibilidades-de-produção)
   - [1.5 Funcionamento de uma economia de mercado: fluxos reais e monetários](#15-funcionamento-de-uma-economia-de-mercado-fluxos-reais-e-monetários)
+    - [FLUXO CIRCULAR DE RENDA ou FLUXO CIRCULAR DA RIQUEZA](#fluxo-circular-de-renda-ou-fluxo-circular-da-riqueza)
+    - [Para entender o FUNCIONAMENTO DO SISTEMA ECONÔMICO](#para-entender-o-funcionamento-do-sistema-econômico)
     - [1.5.1 Classificação dos Bens](#151-classificação-dos-bens)
       - [Bens de Capital](#bens-de-capital)
       - [Bens de Consumo](#bens-de-consumo)
       - [Bens de Intermediários](#bens-de-intermediários)
-      - [Bens de Produção](#bens-de-produção)
+      - [Bens de Finais](#bens-de-finais)
+      - [Fatores de Produção](#fatores-de-produção)
     - [1.5.2 Relação entre FATOR DE PRODUÇÃO e TIPO DE REMUNERAÇÃO](#152-relação-entre-fator-de-produção-e-tipo-de-remuneração)
   - [1.6 Argumentos positivos versus argumentos normativos](#16-argumentos-positivos-versus-argumentos-normativos)
   - [1.7 Inter-relação da Economia com outras áreas do conhecimento](#17-inter-relação-da-economia-com-outras-áreas-do-conhecimento)
@@ -338,7 +341,7 @@
 </tr>
 </table>
 
-- Para entender, como funciona a relação entre a CAPACIDADE TOTAL DE PRODUÇÃO com a PRODUÇÃO DE BENS NA SOCIEDADE acompanhe o seguinte exemplo:
+- Para entender como funciona a relação entre a CAPACIDADE TOTAL DE PRODUÇÃO com a PRODUÇÃO DE BENS NA SOCIEDADE acompanhe o seguinte exemplo:
 
 <p align="center">
  <img src="./figuras/capitulo-01-curva-de-possibilidade-de-producao.png" width="450">
@@ -362,46 +365,46 @@
   - Uma sociedade ESCOLHEU produzir APENAS **DOIS BENS**:
     - Alimentos;
     - Máquinas;
-  - Analisando o CENÁRIO "A"
+  - Analisando o **CENÁRIO "A"**
     - Todos os fatores de produção foram alocados para a produção de máquinas (25 mil máquinas produzidas);
     - Não foi produzido nenhum alimento;
-  - Analisando o CENÁRIO E
+  - Analisando o **CENÁRIO "E"**
     - Todos os fatores de produção foram alocados para a produção de alimentos (70 toneladas produzidas)
   - Os demais CENÁRIOS são autoexplicativos
   - Existem **três REGIÕES** no **GRÁFICO DA CPP** e cada uma delas possi uma **INTERPRETAÇÃO ECONÔMICA**:
     - Abaixo da Curva (Ponto Y):
-      - Significa que a ECONOMIA está operando com CAPACIDADE OCIOSA (com DESEMPREGO);
+      - Significa que a **ECONOMIA** está operando com **CAPACIDADE OCIOSA** (com **DESEMPREGO**);
     - Na Curva (pontos A, B, C, D e E):
       - Significa que a **ECONOMIA** está operando no **PLENO EMPREGO DE SUA CAPACIDADE DE PRODUÇÃO**;
     - Além da Curva (Ponto Z):
-      - Significa que a ECONOMIA ESTARIA OPERANDO ULTRAPASSANDO SUA CAPACIDADE DE PRODUÇÃO (ou de PLENO EMPREGO). <span style="background-color:yellow"><span style="color:red;font-weight:bold">**O que não é possível**</span></span>;
-      - Essa situação é influenciada não apenas pela CAPACIDADE DE PESSOAL, mas também de outros elementos, tais como TECNOLOGIA EMPREGADA, METODOLOGIA EMPREGADA;
+      - Significa que a **ECONOMIA ESTARIA OPERANDO ULTRAPASSANDO SUA CAPACIDADE DE PRODUÇÃO** (ou de **PLENO EMPREGO**). <span style="background-color:yellow"><span style="color:red;font-weight:bold">**O que não é possível**</span></span>;
+      - Essa situação é influenciada não apenas pela CAPACIDADE DE PESSOAL, mas também de outros elementos, tais como **TECNOLOGIA EMPREGADA** e **METODOLOGIA EMPREGADA**;
 
 ### 1.4.1 Custo de oportunidade
 
 - A **transferência de FATORES DE PRODUÇÃO**, inicialmente alocados para produção de um bem A, para um bem B:
-  - IMPLICA em um CUSTO DE OPORTUNIDADE;
-  - REPRESENTA o CUSTO DA PRODUÇÃO ALTERNATIVA SACRIFICADA;
-  - IMPLICA em um GRAU DE DIFICULTADADE cada vez mais ACENTUADO e ONEROSO;
-    - Esse fato IMPLICA no FORMATO DA CURVA (CPP) ser CÔNCAVA;
+  - **IMPLICA** em um **CUSTO DE OPORTUNIDADE**;
+  - **REPRESENTA** o **CUSTO DA PRODUÇÃO ALTERNATIVA SACRIFICADA**;
+  - **IMPLICA** em um **GRAU DE DIFICULTADADE** cada vez mais **ACENTUADO** e **ONEROSO**;
+    - Esse fato **IMPLICA** no F**ORMATO DA CURVA (CPP)** ser **CÔNCAVA**;
     - **Acréscimos IGUAIS** na **produção de um B** ACARRETARÁ em **acréscimos CADA VEZ MAIORES** no **CUSTO DE OPORTUNIDADE da produção do bem A**;
-- O CUSTO DE OPORTUNIDADE também é chamado de:
-  - CUSTO ALTERNATIVO
-  - CUSTO IMPLÍCITO
-- É característico, a partir da CURVA DE POSSIBILIDADE DE PRODUÇÃO (CPP), que o CUSTO DE OPORTUNIDADE seja CRESCENTE;
+- O **CUSTO DE OPORTUNIDADE** também é chamado de:
+  - **CUSTO ALTERNATIVO**
+  - **CUSTO IMPLÍCITO**
+- É característico, a partir da **CURVA DE POSSIBILIDADE DE PRODUÇÃO (CPP)**, que o **CUSTO DE OPORTUNIDADE** seja **CRESCENTE**;
 
 ### 1.4.2 Deslocamentos da curva de possibilidades de produção
 
-- Deslocamentos PARA DIREITA e PARA CIMA na CURVA DE POSSIBILIDADE DE PRODUÇÃO (CPP)
-  - Indica que o país está CRESCENDO;
+- Deslocamentos **PARA DIREITA** e **PARA CIMA na CURVA DE POSSIBILIDADE DE PRODUÇÃO (CPP)**
+  - Indica que o país está **CRESCENDO**;
     - EM DECORRÊNCIA:
-      - Do AUMETO da QUANTIDADE FÍSICA dos FATORES DE PRODUÇÃO;
-      - Do MELHOR APROVEITAMENTO dos RECURSOS JÁ EXISTENTES devido:
-        - Ao PROGRESSO TECNOLÓGICO;
-        - A maior EFICIÊNCIA PRODUTIVA;
-        - A maior EFICIÊNCIA ORGANIZACIONAL;
-        - Melhoria no GRAU DE QUALIFICAÇÃO de mão-de-obra;
-- Deslocamentos PARA ESQUERDA e PARA BAIXO na CURVA DE POSSIBILIDADE DE PRODUÇÃO (CPP)
+      - Do **AUMETO** da **QUANTIDADE FÍSICA** dos **FATORES DE PRODUÇÃO**;
+      - Do **MELHOR APROVEITAMENTO** dos **RECURSOS** **JÁ EXISTENTES** devido:
+        - Ao **PROGRESSO TECNOLÓGICO**;
+        - A maior **EFICIÊNCIA PRODUTIVA**;
+        - A maior **EFICIÊNCIA ORGANIZACIONAL**;
+        - Melhoria no **GRAU DE QUALIFICAÇÃO** de mão-de-obra;
+- Deslocamentos **PARA ESQUERDA** e PARA BAIXO na CURVA DE POSSIBILIDADE DE PRODUÇÃO (CPP)
   - EMBORA NÃO EXPLICITADO PELO AUTOR, em decorrência do que foi exposto até aqui nesse capítulo, infere-se que o significado de deslocamentos PARA ESQUERDA e PARA BAIXO na CURVA DE POSSIBILIDADE DE PRODUÇÃO (CPP) indicará que o país NÃO ESTÁ CRESCENDO ou ESTÁ DECRESCENDO ECONOMICAMENTE.
 
 ## 1.5 Funcionamento de uma economia de mercado: fluxos reais e monetários
@@ -412,19 +415,63 @@
     - De RELACIONAMENTO ENTRE ELEMENTOS; e
     - Do FLUXO que orientará a LEITURA DO MODELO;
   - Três **modelos** são apresentados
-    - FLUXO REAL DA ECONOMIA
-    - FLUXO MONETÁRIO DA ECONOMIA
-    - FLUXO CIRCULAR DE RENDA
+    - FLUXO CIRCULAR DE RENDA ou FLUXO CIRCULAR DA RIQUEZA
+      - FLUXO REAL DA ECONOMIA
+        - Só é possível através do DINHEIRO/MOEDA;
+          - Utilizada para remunerar os FATORES DE PRODUÇÃO e para o PAGAMENTO DE BENS E SERVIÇOS;
+        - Em razão disso, torna-se necessário o FLUXO MONETÁRIO para completar a visão do FLUXO CIRCULAR DE RENDA ou FLUXO CIRCULAR DA RIQUEZA;
+      - FLUXO MONETÁRIO DA ECONOMIA
+
+### FLUXO CIRCULAR DE RENDA ou FLUXO CIRCULAR DA RIQUEZA 
+
+<center>
+
+<img src="./figuras/capitulo-01-fluxo-circular-de-renda-ou-da-riqueza.png" width="750">
+
+<p align="center"><b>Figura</b>: FLUXO CIRCULAR DE RENDA ou FLUXO CIRCULAR DA RIQUEZA</p>
+
+</center>
+
+### Para entender o FUNCIONAMENTO DO SISTEMA ECONÔMICO
+
+- Imagine uma **ECONOMIA DE MERCADO** em que:
+  - **NÃO TENHA interferência do Governo**;
+  - **NÃO TENHA transações com o EXTERIOR** (ECONOMIA FECHADA);
+- Nesse cenário hipotético:
+  - OS AGENTES ECONÔMICOS são:
+    - As FAMÍLIAS (unidades familiares)
+      - São <u>**proprietárias**</u> dos FATORES DE PRODUÇÃO
+      - <u>**Fornecem**</u> às empresas (unidades de produção) através do **MERCADO DOS FATORES DE PRODUÇÃO**
+    - As EMPRESAS (unidades produtoras)
+      - Combinam os FATORES DE PRIDUÇÃO;
+      - Produzem BENS e SERVIÇOS;
+      - <u>**Fornecem**</u> às famílias através do **MERCADO DE BENS E SERVIÇOS**
+  - FAMÍLIAS e EMPRESAS exercem um DUPLO PAPEL;
+- Considerando o <span style="background-color:orange">**MERCADO DOS FATORES DE PRODUÇÃO**</span> e o <span style="background-color:orange">**MERCADO DE BENS E SERVIÇOS**</span>
+  - Em cada um dos mercados atua <u>**conjuntamente**</u> as **FORÇAS** da **OFERTA** e da **DEMANDA** para <span style="background-color:yellow">**DETERMINAR O PREÇO**</span>;
+  - O <span style="background-color:orange">**MERCADO DE BENS E SERVIÇOS**</span>
+    - Determina os preços dos fatores de PRODUÇÃO (salário, juros, aluguel, lucros, royalty, veja **quadro 2 no item 1.5.2**)
+  - O <span style="background-color:orange">**MERCADO DOS FATORES DE PRODUÇÃO**</span>
+    - Determina os preços de BENS e SERVIÇOS;
+- Em relação aos FLUXOS, temos
+  - O FLUXO BÁSICO
+    -  Se estabelece entre FAMILIAS e EMPRESAS
+  - O FLUXO COMPLETO
+    - Incorpora o SETOR PÚBLICO e o SETOR EXTERNO
+    - Inclui TODAS AS TRANSAÇÕES com:
+      - MERCADORIAS;
+      - SERVIÇOS; e
+      - MOVIMENTO FINANCEIRO com o resto do mundo
 
 ### 1.5.1 Classificação dos Bens
 
 #### Bens de Capital
 
-- São bens utilizados na FABRICAÇÃO DE OUTROS BENS;
-- NÃO SE DESGASTAM ou SE CONSOMEM TOTALMENTE durante o processo produtivo;
-- São classificados no ATIVO FIXO nas DEMONSTRAÇÕES CONTÁBEIS;
-- Possui CARACTERÍSTICAS:
-  - Contribui para MELHORIA DA PRODUTIVIDADE da mão-de-obra;
+- São bens utilizados na **FABRICAÇÃO DE OUTROS BENS**;
+- **NÃO SE DESGASTAM** ou **SE CONSOMEM TOTALMENTE** durante o processo produtivo;
+- São classificados no **ATIVO FIXO** nas **DEMONSTRAÇÕES CONTÁBEIS**;
+- Possui **CARACTERÍSTICAS**:
+  - Contribui para **MELHORIA DA PRODUTIVIDADE** da mão-de-obra;
 - Exemplos:
   - Máquinas
   - Instalações de uma empresa;
@@ -432,11 +479,46 @@
 
 #### Bens de Consumo
 
-- DESTINAM-SE DIRETAMENTE ao atendimento das NECESSIDADES HUMANAS;
+- Destinam-se <u>**DIRETAMENTE**</u> ao **atendimento das NECESSIDADES HUMANAS**;
+- Podem ser CLASSIFICADOS como:
+  - DURÁVEIS
+  - NÃO-DURÁVEIS
 
 #### Bens de Intermediários
 
-#### Bens de Produção
+- São aqueles:
+  - Que são:
+    - TRANSFORMADOS na produção de outros bens; ou
+    - AGREGADOS na produção de outros bens;
+  - Que são CONSUMIDOS TOTALMENTE no processo produtivo
+    - Insumos;
+    - Matérias-primas;
+    - Componentes;
+
+#### Bens de Finais
+
+- São bens que são vendidos:
+  - Para Consumo; ou
+  - Para Utilização Final
+  
+#### Fatores de Produção
+
+<center>
+
+```mermaid
+mindmap
+root ((Fatores de Produção))
+  3.Capital
+  1.Recursos Humanos
+    Trabalho
+    Capacidade Empresarial
+  2.Terra
+  4.Tecnologia
+```
+<p align="center"><b>Mapa Mental</b>: Fatores de Produção</p>
+
+</center>
+
 
 ### 1.5.2 Relação entre FATOR DE PRODUÇÃO e TIPO DE REMUNERAÇÃO
 
