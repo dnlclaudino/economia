@@ -40,10 +40,15 @@
       - [COMO PRODUZIR ?](#como-produzir-)
       - [PARA QUEM PRODUZIR ?](#para-quem-produzir-)
   - [1.4 Curva de Possibilidades de Produção (CPP ou Curva de Transformação)](#14-curva-de-possibilidades-de-produção-cpp-ou-curva-de-transformação)
-      - [A) Considere](#a-considere)
     - [1.4.1 Custo de oportunidade](#141-custo-de-oportunidade)
     - [1.4.2 Deslocamentos da curva de possibilidades de produção](#142-deslocamentos-da-curva-de-possibilidades-de-produção)
   - [1.5 Funcionamento de uma economia de mercado: fluxos reais e monetários](#15-funcionamento-de-uma-economia-de-mercado-fluxos-reais-e-monetários)
+    - [1.5.1 Classificação dos Bens](#151-classificação-dos-bens)
+      - [Bens de Capital](#bens-de-capital)
+      - [Bens de Consumo](#bens-de-consumo)
+      - [Bens de Intermediários](#bens-de-intermediários)
+      - [Bens de Produção](#bens-de-produção)
+    - [1.5.2 Relação entre FATOR DE PRODUÇÃO e TIPO DE REMUNERAÇÃO](#152-relação-entre-fator-de-produção-e-tipo-de-remuneração)
   - [1.6 Argumentos positivos versus argumentos normativos](#16-argumentos-positivos-versus-argumentos-normativos)
   - [1.7 Inter-relação da Economia com outras áreas do conhecimento](#17-inter-relação-da-economia-com-outras-áreas-do-conhecimento)
     - [1.7.1 Economia, Física e Biologia](#171-economia-física-e-biologia)
@@ -339,30 +344,115 @@
  <img src="./figuras/capitulo-01-curva-de-possibilidade-de-producao.png" width="450">
 </p>
 
+<center>
+
 | Alternativas de Produção<br>(Cenários) | Máquinas (milhares) | Alimentos (toneladas) |
-| :----------------------: | :-----------------: | :-------------------: |
-|            A             |         25          |           0           |
-|            B             |         20          |          30           |
-|            C             |         15          |          45           |
-|            D             |         10          |          60           |
-|            E             |          0          |          70           |
+| :------------------------------------: | :-----------------: | :-------------------: |
+|                   A                    |         25          |           0           |
+|                   B                    |         20          |          30           |
+|                   C                    |         15          |          45           |
+|                   D                    |         10          |          60           |
+|                   E                    |          0          |          70           |
 
 <p align="center"><b>Quadro 1</b>: Alternativas de produção e Capacidades de Produção </p>
 
-- Nesse cenário do Quadro 1
-  - Uma sociedade ESCOLHEU produzir APENAS DOIS BENS:
+</center>
+
+- Nesse cenário do **Quadro 1**:
+  - Uma sociedade ESCOLHEU produzir APENAS **DOIS BENS**:
     - Alimentos;
     - Máquinas;
-  - <span style="background-color:yellow">CONTINUE AQUI !!! </span>
-
-#### A) Considere 
-
+  - Analisando o CENÁRIO "A"
+    - Todos os fatores de produção foram alocados para a produção de máquinas (25 mil máquinas produzidas);
+    - Não foi produzido nenhum alimento;
+  - Analisando o CENÁRIO E
+    - Todos os fatores de produção foram alocados para a produção de alimentos (70 toneladas produzidas)
+  - Os demais CENÁRIOS são autoexplicativos
+  - Existem **três REGIÕES** no **GRÁFICO DA CPP** e cada uma delas possi uma **INTERPRETAÇÃO ECONÔMICA**:
+    - Abaixo da Curva (Ponto Y):
+      - Significa que a ECONOMIA está operando com CAPACIDADE OCIOSA (com DESEMPREGO);
+    - Na Curva (pontos A, B, C, D e E):
+      - Significa que a **ECONOMIA** está operando no **PLENO EMPREGO DE SUA CAPACIDADE DE PRODUÇÃO**;
+    - Além da Curva (Ponto Z):
+      - Significa que a ECONOMIA ESTARIA OPERANDO ULTRAPASSANDO SUA CAPACIDADE DE PRODUÇÃO (ou de PLENO EMPREGO). <span style="background-color:yellow"><span style="color:red;font-weight:bold">**O que não é possível**</span></span>;
+      - Essa situação é influenciada não apenas pela CAPACIDADE DE PESSOAL, mas também de outros elementos, tais como TECNOLOGIA EMPREGADA, METODOLOGIA EMPREGADA;
 
 ### 1.4.1 Custo de oportunidade
 
+- A **transferência de FATORES DE PRODUÇÃO**, inicialmente alocados para produção de um bem A, para um bem B:
+  - IMPLICA em um CUSTO DE OPORTUNIDADE;
+  - REPRESENTA o CUSTO DA PRODUÇÃO ALTERNATIVA SACRIFICADA;
+  - IMPLICA em um GRAU DE DIFICULTADADE cada vez mais ACENTUADO e ONEROSO;
+    - Esse fato IMPLICA no FORMATO DA CURVA (CPP) ser CÔNCAVA;
+    - **Acréscimos IGUAIS** na **produção de um B** ACARRETARÁ em **acréscimos CADA VEZ MAIORES** no **CUSTO DE OPORTUNIDADE da produção do bem A**;
+- O CUSTO DE OPORTUNIDADE também é chamado de:
+  - CUSTO ALTERNATIVO
+  - CUSTO IMPLÍCITO
+- É característico, a partir da CURVA DE POSSIBILIDADE DE PRODUÇÃO (CPP), que o CUSTO DE OPORTUNIDADE seja CRESCENTE;
+
 ### 1.4.2 Deslocamentos da curva de possibilidades de produção
 
+- Deslocamentos PARA DIREITA e PARA CIMA na CURVA DE POSSIBILIDADE DE PRODUÇÃO (CPP)
+  - Indica que o país está CRESCENDO;
+    - EM DECORRÊNCIA:
+      - Do AUMETO da QUANTIDADE FÍSICA dos FATORES DE PRODUÇÃO;
+      - Do MELHOR APROVEITAMENTO dos RECURSOS JÁ EXISTENTES devido:
+        - Ao PROGRESSO TECNOLÓGICO;
+        - A maior EFICIÊNCIA PRODUTIVA;
+        - A maior EFICIÊNCIA ORGANIZACIONAL;
+        - Melhoria no GRAU DE QUALIFICAÇÃO de mão-de-obra;
+- Deslocamentos PARA ESQUERDA e PARA BAIXO na CURVA DE POSSIBILIDADE DE PRODUÇÃO (CPP)
+  - EMBORA NÃO EXPLICITADO PELO AUTOR, em decorrência do que foi exposto até aqui nesse capítulo, infere-se que o significado de deslocamentos PARA ESQUERDA e PARA BAIXO na CURVA DE POSSIBILIDADE DE PRODUÇÃO (CPP) indicará que o país NÃO ESTÁ CRESCENDO ou ESTÁ DECRESCENDO ECONOMICAMENTE.
+
 ## 1.5 Funcionamento de uma economia de mercado: fluxos reais e monetários
+
+- Existem MODELOS que procuram representar o FUNCIONAMENTO DO SISTEMA ECONÔMICO em uma ECONOMIA DE MERCADO;
+  - Esses modelos são compostos:
+    - De ELEMENTOS;
+    - De RELACIONAMENTO ENTRE ELEMENTOS; e
+    - Do FLUXO que orientará a LEITURA DO MODELO;
+  - Três **modelos** são apresentados
+    - FLUXO REAL DA ECONOMIA
+    - FLUXO MONETÁRIO DA ECONOMIA
+    - FLUXO CIRCULAR DE RENDA
+
+### 1.5.1 Classificação dos Bens
+
+#### Bens de Capital
+
+- São bens utilizados na FABRICAÇÃO DE OUTROS BENS;
+- NÃO SE DESGASTAM ou SE CONSOMEM TOTALMENTE durante o processo produtivo;
+- São classificados no ATIVO FIXO nas DEMONSTRAÇÕES CONTÁBEIS;
+- Possui CARACTERÍSTICAS:
+  - Contribui para MELHORIA DA PRODUTIVIDADE da mão-de-obra;
+- Exemplos:
+  - Máquinas
+  - Instalações de uma empresa;
+  - Mobiliário
+
+#### Bens de Consumo
+
+- DESTINAM-SE DIRETAMENTE ao atendimento das NECESSIDADES HUMANAS;
+
+#### Bens de Intermediários
+
+#### Bens de Produção
+
+### 1.5.2 Relação entre FATOR DE PRODUÇÃO e TIPO DE REMUNERAÇÃO
+
+<center>
+
+|   Fator de Produção    | Tipo de Remuneração |
+| :--------------------: | :-----------------: |
+|        Trabalho        |       Salário       |
+|        Capital         |        Juro         |
+|         Terra          |       Aluguel       |
+|       Tecnologia       |       Royalty       |
+| Capacidade Empresarial |        Lucro        |
+
+<p align="center"><b>Quadro 2</b>: Relação entre FATOR DE PRODUÇÃO e TIPO DE REMUNERAÇÃO</p>
+
+</center>
 
 ## 1.6 Argumentos positivos versus argumentos normativos
 
