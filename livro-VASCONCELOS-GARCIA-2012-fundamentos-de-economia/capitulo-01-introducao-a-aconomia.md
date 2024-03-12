@@ -538,9 +538,79 @@ root ((Fatores de Produção))
 
 ## 1.6 Argumentos positivos versus argumentos normativos
 
+- A **Economia** é uma ciência social;
+  - Ela utiliza a **ANÁLISE POSITIVA**
+- Uma **ANÁLISE POSITIVA** contêm argumentos **POSITIVOS** e **NORMATIVOS**
+  - **ARGUMENTOS POSITIVOS** são argumentos:
+    - Que <span style="color:red;font-weight:bold"><b>NÃO</b> envolvem</span> **JUÍZOS DE VALOR**;
+    - Que está limitada a:
+      - Argumentos DESCRITIVOS; e
+      - Medições científicas;
+    - Que deverão explicar **OS FATOS DA REALIDADE**;
+    - Que se refere a **PROPOSIÇÕES BÁSICAS**:
+      - Exemplo:
+        - **SE** o preço da gosolina aumentar em relação a todos os outros preços, **ENTÃO** a quantidade que as pessoas irão comprar cairá;
+        - Que é uma **ANÁLISE** do que **É**
+    - **ARGUMENTOS NORMATIVOS** são argumentos:
+      - Que, explítita ou implícitamente, contém **JUÍZO DE VALOR** sobre alguma **medida econômica**;
+      - Exemplo:
+        - Na frase: "O preço da gasolina não deve subir"
+          - Expressamos **OPINIÃO** ou **JUÍZO DE VALOR**;
+          - É uma análise do que **DEVERIA SER**;
+    - Para Vasconcelos e Garcia (2001, p. 9), nesse aspecto, e apenas nesse aspecto, a ECONOMIA se aproxima da QUÍMICA e da FÍSICA Que são ciências **consideradas virtualmente isentas** de **juízo de valor**;
+      - Os autores não tardam em afirmar, contudo, que:
+        - A ECONOMIA trata do comportamento de pessoas;
+        - Frequentemente, **nossos valores** interferem na **ANÁLISE DO FATO ECONÔMICO**; 
+- Suporta que **DESEJEMOS UMA MELHORIA NA DISTRIBUIÇÃO DE RENDA DO PAÍS**
+  - É um **julgamento de valor** em que acreditamos;
+  - Quem administra a política econômica dispõe de **UMA SÉRIE DE OPÇÕES** para alcançar esse **OBJETIVO**:
+    - Aumentar salários;
+    - Combater a inflação;
+    - Criar empregos;
+    - etc.
+  - A **ECONOMIA POSITIVA** ajudará a **ESCOLHER** o **INSTRUMENTO DE POLÍTICA ECONÔMICA** mais adequado;
+    - A **ECONOMIA POSITIVA** poderá ser utilizada como **BASE PARA A ESCOLHA** da política mais apropriada;
+
+<table border="1" id="quadro-exemplo-uso-da-economia-positiva-base-da-decisao">
+<tr>
+  <td align="center" valign="top"width="140px" style="border-right-style:hidden">
+   <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-exemplo.png?raw=true" heigh="80" width="80"><br>
+   <b>Exemplo</b>
+  </td>
+  <td valign="top">
+<p style="text-align:center"><b>DIANTE DE UM CENÁRIO ECONÔMICO, SERIA UMA BOA IDEIA AUMENTAR OS SALÁRIOS PARA DISTRIBUIR MELHOR A RENDA?</b></p>
+  <p style="text-align:justify">
+   A Economia Positiva ajudará a escolher o instrumento de política econômica mais adequado. Se a economia está próxima da plena capacidade de produção, aumentos de salários, por encarecerem o custo da mão-de-obra, podem levar a um aumento de desemprego, isto é, o contrário do desejado quanto à melhoria na distribuição de renda..
+  </p>
+  <p>Esse é um argumento positivo, indicando que aumentos salariais, nessas circunstâncias, não constituem a política mais adequada.</p>
+</tr>
+</table>
+
 ## 1.7 Inter-relação da Economia com outras áreas do conhecimento
 
 ### 1.7.1 Economia, Física e Biologia
+
+- Os grandes avanços iniciais das **CIÊNCIAS** nos **séculos XVIII e XIX** influEnciaram fortemente a **ECONOMIA**;
+  - **DUAS CORRENTES** científicas eram preponderantes à epoca:
+    - A corrente **ORGANICISTA** relacionada com a **BIOLOGIA**
+      - Para os economistas influenciados por essa corrente, a ECONOMIA funcionava como um **ORGANISMO VIVO**;
+      - Daí, surgiram os **TERMOS** e **EXPRESSÕES** nas TEORIAS ECONÔMICAS:
+        - Órgãos;
+        - Funções;
+        - Circulação;
+        - Fluxos;
+    - A corrente **MECANICISTA** relacionada com a **FÍSICA**
+      - Para os economistas influenciados por essa corrente, a **ECONOMIA** funcionava como **CERTAS LEIS DA FÍSICA**;
+        - Daí, surgiram os **TERMOS** e **EXPRESSÕES** nas **TEORIAS ECONÔMICAS**:
+          - Estática;
+          - Dinâmica;
+          - Aceleração;
+          - Velocidade;
+          - Forcas;
+- Com o passar do tempo, predominou a CORRENTE HUMANISTA que coloca em um plano superior o PSICOLÓGICO nas ATIVIDADES HUMANAS;
+  - A **ECONOMIA**:
+    - Repousa sobre **ATOS HUMANOS**;
+    - É, por excelência, uma **CIÊNCIA SOCIAL** pois objetiva a **SATISFAÇÃO DAS NECESSIDADES HUMANAS**;
 
 ### 1.7.2 Economia, Matemática e Estatística
 
